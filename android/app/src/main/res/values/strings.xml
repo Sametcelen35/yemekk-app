@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Seninle Mutfakta</string>
+    <string name="title_activity_main">Seninle Mutfakta</string>
+    <string name="package_name">com.seninlemutfakta.app</string>
+    <string name="custom_url_scheme">com.seninlemutfakta.app</string>
+</resources>

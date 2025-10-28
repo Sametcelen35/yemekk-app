@@ -1,0 +1,15 @@
+{
+  "appId": "com.seninlemutfakta.app",
+  "appName": "Seninle Mutfakta",
+  "webDir": "build",
+  "server": {
+    "url": "https://cooking-duo.preview.emergentagent.com",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "ios": {
+    "contentInset": "automatic"
+  }
+}
